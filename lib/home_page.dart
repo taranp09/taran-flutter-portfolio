@@ -4,7 +4,7 @@ class HomePage extends StatelessWidget {
   const HomePage({super.key});
 
   static const String profileImage =
-      'https://picsum.photos/300';
+      'https://picsum.photos/id/86/300';
 
   @override
   Widget build(BuildContext context) {
